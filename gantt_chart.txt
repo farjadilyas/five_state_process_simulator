@@ -1,0 +1,28 @@
+====================================================================
+||			GANTT CHART				  ||
+====================================================================
+
+Log Start Time: Mon Apr  6 04:46:18 2020
+
+Scheduling Algorithm: First Come First Serve (FCFS)
+
+
+PROCESS NAME    START_T    END_T     
+Proc4           0          9          
+Proc2           9          10         
+Proc1           10         15         
+Proc3           15         21         
+Proc5           21         35         
+Proc7           35         40         
+Proc6           40         46         
+Proc2           46         53         
+Proc5           56         60         
+Proc7           60         66         
+
+Log End Time: Mon Apr  6 04:47:24 2020
+
+
+
+Muhammad Farjad Ilyas
+18I-0436
+OS Assignment #2

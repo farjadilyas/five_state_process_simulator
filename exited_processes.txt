@@ -1,0 +1,25 @@
+=====================================================================
+||			EXITED PROCESSES			  ||
+======================================================================
+
+Log Start Time: Mon Apr  6 04:46:18 2020
+
+Scheduling Algorithm: First Come First Serve (FCFS)
+
+
+P_NAME  ARRIVAL_T    BURST_T    WAIT_T    FINISH_T    TURNAROUND_T    
+Proc4     0            9          0         9           9               
+Proc1     0            5          10        15          15              
+Proc3     1            6          14        21          20              
+Proc6     14           6          26        46          32              
+Proc2     0            8          27        53          53              
+Proc5     5            18         16        60          55              
+Proc7     11           11         28        66          55              
+
+Log End Time: Mon Apr  6 04:47:24 2020
+
+
+
+Muhammad Farjad Ilyas
+18I-0436
+OS Assignment #2

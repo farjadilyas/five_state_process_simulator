@@ -15,12 +15,16 @@
 
 ### To Compile:
 
+```sh
 g++ exit_state.cpp -o exit_state
 g++ blocked_state.cpp -pthread -o blocked_state
 g++ run_state.cpp -o run_state
 g++ ready_state.cpp -pthread -o ready_state
 g++ new_state.cpp -o new_state
 g++ 5_state_model_simulator.cpp -o 5_state_model_simulator
+```
 
 ### To Run:
+```sh
 ./5_state_model_simulator
+```
